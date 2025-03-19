@@ -755,4 +755,4 @@ if generate_testcases_button:
 
 # Footer
 st.markdown("----")
-st.markdown("Built by Arka :D")
+st.markdown("IEM Consultancy Services")
